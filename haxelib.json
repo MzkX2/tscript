@@ -1,0 +1,20 @@
+{
+  "name": "TScript",
+  "url": "https://github.com/MrzkTeam/TScript",
+  "license": "MIT",
+  "description": "TScript is the same as HScript, but better, more functional and much better!",
+  "tags": [
+    "haxe",
+    "scripting",
+    "script",
+    "tscript",
+    "hscript"
+  ],
+  "classPath": "",
+  "version": "1.0.0",
+  "releasenote": "TScript is working!",
+  "contributors": [
+    "MzkX2"
+  ],
+  "dependencies": {}
+}
